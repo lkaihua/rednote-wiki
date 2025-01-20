@@ -1,23 +1,8 @@
 momo:
   name: momo
-  title: momo rednote
+  title: momo
   url: https://rednotewiki.org
   image_url: https://rednotewiki.org/img/momo.jpg
   page: false
   socials:
     newsletter: https://rednotewiki.org
-    
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com

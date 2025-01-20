@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Rednote Wiki',
+  title: 'RednoteWiki',
   tagline: 'Learn to use RedNote, connect with the community, and embrace the culture.',
   favicon: 'img/favicon.ico',
 
