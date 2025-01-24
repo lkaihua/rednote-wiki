@@ -19,12 +19,12 @@ To determine which app is the safest from the three screenshots based on their p
 
 <!-- truncate -->
 
-1. **X App (X Corp.)**:
+1. **X App**:
    - **Data Used to Track You**: Includes purchases, location, contact info, browsing history, usage data, user content, and identifiers.
    - **Data Linked to You**: Nearly all categories (purchases, location, contacts, etc.) are linked to your identity.
    - **Data Not Linked to You**: Minimal categories (contact info, user content).
 
-2. **WhatsApp (WhatsApp Inc.)**:
+2. **WhatsApp**:
    - **Data Linked to You**: Includes purchases, location, contacts, financial info, contact info, user content, usage data, identifiers, and diagnostics.
    - **Data Not Linked to You**: Only search history.
    - No explicit **Data Used to Track You**, which implies no cross-app tracking for advertising.
@@ -43,4 +43,4 @@ To determine which app is the safest from the three screenshots based on their p
 **WhatsApp** is safer than X Corp. because it doesn’t track data across apps, but it collects and links more data to your identity.
 
 ### Conclusion:
-Red > WhatsApp > X Corp in terms of data privacy and safety.
+`Rednote` > `WhatsApp` > `X` in terms of data privacy and safety.
