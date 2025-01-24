@@ -11,9 +11,9 @@ The Cat Tax is a quirky, heartwarming ritual on the Rednote that requires new me
 
 ## Its Fun and Unexpected Origins
 
-When TikTok users began migrating to this vibrant Chinese social platform, many were initially unsure about some of its unique traditions, including the concept of paying a Cat Tax. Questions like *“Is this normal?”* started appearing on TikTok, where curious newcomers discussed the odd but charming behavior of Rednote's users.  
+When TikTok users began migrating to this vibrant Chinese social platform, many were initially unsure about some of its unique traditions, including the concept of paying a Cat Tax. Questions like *“Is this appropriate that we just show up on a foreign soical platform?”* started appearing on TikTok, as curious newcomers discussed the expectations of the Chinese community.
 
-It all started with a post from a Chinese girl encouraging others to "pay your tax" by sharing what you love most—your pets, hobbies, or even beautiful views of your hometown. While people experimented with various ideas, it was the Cat Tax that quickly stole the spotlight. Cute, funny, and universally loved, pet photos resonated deeply with everyone, cementing this ritual as the platform’s signature welcome tradition.  
+Then, a post from a Chinese girl went viral. In it, she encouraged Americans to "pay your tax" by sharing what you love most: your pets, hobbies, or even beautiful views of your hometown. While people experimented with various ideas, it was the Cat Tax that quickly stole the spotlight. Cute, funny, and universally loved, pet photos resonated deeply with everyone, cementing this ritual as the platform’s signature welcome tradition.  
 
 Before long, the Cat Tax evolved into a widely accepted standard. From goofy cats mid-pounce to dogs proudly wearing tiny hats, Rednote feeds became a treasure trove of pet content that instantly lifted spirits and helped people feel at home.  
 
