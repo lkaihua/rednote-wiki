@@ -7,7 +7,7 @@ tags: [hello, momo]
 
 Hello world! 
 
-Welcome to Rednote! 
+Welcome to rednote! 
 
 Long live the great unity of the people of the world.
 

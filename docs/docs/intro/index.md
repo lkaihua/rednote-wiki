@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting Rednote On Your Phone
+# Getting rednote On Your Phone
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ First, download the app on your devices.
 | Link |  [Download from App store](https://apps.apple.com/us/app/%E5%B0%8F%E7%BA%A2%E4%B9%A6/id741292507) | [Download from Android - Google Play](https://play.google.com/store/apps/details?id=com.xingin.xhs&hl=en_GB&pli=1) |
 
 :::tip Tips
-Rednote does offer MacBook Desktop and Web version app now. However, as the initial step you need a mobile app to start, and later you can scan the QR code from your mobile phone to login the desktop or the web version.
+rednote does offer MacBook Desktop and Web version app now. However, as the initial step you need a mobile app to start, and later you can scan the QR code from your mobile phone to login the desktop or the web version.
 :::
 
 ## How To Register
@@ -31,7 +31,7 @@ Rednote does offer MacBook Desktop and Web version app now. However, as the init
 3. Select your gender.
 
    :::tip
-   Yes, in Rednote, just like in majority of Chinese apps, there are two gender options to choose from.
+   Yes, in rednote, just like in majority of Chinese apps, there are two gender options to choose from.
    :::
 4. Set your interests. Your chosen interests will influence your account's initial positioning.
 
@@ -44,13 +44,13 @@ Overall, the steps are as follows,
 
 ## How to Change Language 
 
-It's likely that your Rednote app interface selects `Chinese` as the default language, and you can change it to English with a few taps.
+It's likely that your rednote app interface selects `Chinese` as the default language, and you can change it to English with a few taps.
 
 :::tip
-Rednote only supports Simplied Chinese, Traditional Chinese and English for the moment.
+rednote only supports Simplied Chinese, Traditional Chinese and English for the moment.
 :::
 
-1. Open RedNote and tap the `Menu` icon (three horizontal lines) in the top left corner.
+1. Open rednote and tap the `Menu` icon (three horizontal lines) in the top left corner.
 2. In the side menu, locate and tap the `Settings` button (⚙ 设置).
 3. Tap the `General Settings` option (⚙ 通用设置).
 4. Tap `Multiple Languages` option (多语言).
@@ -60,4 +60,4 @@ Rednote only supports Simplied Chinese, Traditional Chinese and English for the 
 
 ## That's it 
 
-That's it. Happy Rednote journey!
+That's it. Happy rednote journey!

@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import type { ReactNode } from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
@@ -11,12 +11,12 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Learn to use Rednote',
+    title: 'Learn to use rednote',
     image: require('@site/static/img/feature-1.jpg').default,
     description: (
       <>
-        A tutorial to help you learn to download and intall Rednote, register an account,
-        and create your first post. 
+        A tutorial to help you learn to download and intall rednote, register an account,
+        and create your first post.
       </>
     ),
   },
@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     image: require('@site/static/img/feature-2.jpg').default,
     description: (
       <>
-        Rednote has a great community, and they want you to be a part of it. 
+        rednote has a great community, and they want you to be a part of it.
         Ask questions, and make sure follow the community rule and values.
       </>
     ),
@@ -35,18 +35,18 @@ const FeatureList: FeatureItem[] = [
     image: require('@site/static/img/feature-3.jpg').default,
     description: (
       <>
-        Hey! Did you pay Cat Tax? Learn about the culture (who don't like memes?) of Rednote.
+        Hey! Did you pay Cat Tax? Learn about the culture (who don't like memes?) of rednote.
       </>
     ),
   },
 ];
 
-function Feature({title, image, description}: FeatureItem) {
+function Feature({ title, image, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         {/* <Svg className={styles.featureSvg} role="img" /> */}
-        <img src={image} alt={title} className={styles.featureSvg} role="img"/>
+        <img src={image} alt={title} className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md padding-vert--md">
         <Heading as="h3">{title}</Heading>

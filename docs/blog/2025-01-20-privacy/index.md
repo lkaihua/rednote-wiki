@@ -1,17 +1,17 @@
 ---
 slug: how-safe-is-rednote-for-your-privacy
-title: How Safe Is Rednote for Your Privacy?
+title: How Safe Is rednote for Your Privacy?
 authors: [momo]
 tags: [privacy]
 ---
 
-As Rednote is a Chinese app, overseas users might naturally have concerns about its privacy practices and data handling policies. How does it compare to apps developed by U.S.-based companies in terms of transparency and safety? 
+As rednote is a Chinese app, overseas users might naturally have concerns about its privacy practices and data handling policies. How does it compare to apps developed by U.S.-based companies in terms of transparency and safety? 
 
-In this article, we’ll explore Rednote’s privacy features, examine what data it collects, and compare it with popular apps from major U.S. companies to determine how secure it really is for users around the globe.
+In this article, we’ll explore rednote’s privacy features, examine what data it collects, and compare it with popular apps from major U.S. companies to determine how secure it really is for users around the globe.
 
 Here are the Privacy Policy that apps have declared on Apple's store. 
 
-| X (Twitter) | WhatsApp | Rednote |
+| X (Twitter) | WhatsApp | rednote |
 |------------| -------- | ------- |
 | ![./x.jpeg](./x.jpeg) | ![./whatsapp.jpeg](./whatsapp.jpeg) | ![./rednote.jpeg](./rednote.jpeg) |
 
@@ -29,13 +29,13 @@ To determine which app is the safest from the three screenshots based on their p
    - **Data Not Linked to You**: Only search history.
    - No explicit **Data Used to Track You**, which implies no cross-app tracking for advertising.
 
-3. **Rednote (Xiaohongshu)**:
+3. **rednote (Xiaohongshu)**:
    - **Data Used to Track You**: Only identifiers.
    - **Data Linked to You**: Includes purchases, contacts, search history, and identifiers.
    - **Data Not Linked to You**: Includes location, contact info, user content, usage data, and diagnostics.
 
 ### Safest Option:
-**Rednote (Xiaohongshu)** appears to be the safest:
+**rednote (Xiaohongshu)** appears to be the safest:
 - Tracks the least amount of cross-app data (only identifiers).
 - Provides the most categories under **Data Not Linked to You**, reducing the association between collected data and your identity.
 - Although data is linked, fewer categories are tied to your identity compared to X or WhatsApp.
@@ -43,4 +43,4 @@ To determine which app is the safest from the three screenshots based on their p
 **WhatsApp** is safer than X Corp. because it doesn’t track data across apps, but it collects and links more data to your identity.
 
 ### Conclusion:
-`Rednote` > `WhatsApp` > `X` in terms of data privacy and safety.
+`rednote` > `WhatsApp` > `X` in terms of data privacy and safety.
