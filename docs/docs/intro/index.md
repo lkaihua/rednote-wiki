@@ -58,6 +58,6 @@ rednote only supports Simplied Chinese, Traditional Chinese and English for the 
 
 ![./img/switch-language.jpg](./img/switch-language.jpg)
 
-## That's it 
+## And... 
 
-That's it. Happy rednote journey!
+That's it! Enjoy your Rednote journey!
