@@ -21,5 +21,4 @@ By focusing on **quality and engagement rather than follower count**, Rednote cr
 
 Let's end with a great metaphor that gets lots of thumbs-ups:
 
-> 这个APP就是这样的，大家围绕一个帖子聊天。像散步时候的见面聊天
 > This app just works like this, everyone chats around a single post. It feels just like running into someone for a casual chat while taking a walk.
