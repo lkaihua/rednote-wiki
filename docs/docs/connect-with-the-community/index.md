@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-title: Connect with the community
 ---
 
 # Connect With The Community
@@ -35,9 +34,10 @@ Your first post might not go viral, but **rednote’s recommendation system ensu
 
 ## And...
 
-**No matter how different we may seem, we share far more in common as humankind.**
+> @momo:
+> 
+> No matter how different we may seem, we share far more in common as humankind.
 
 ![./kevin-erdvig-k7fUP9RQj3Y-unsplash.jpg](./kevin-erdvig-k7fUP9RQj3Y-unsplash.jpg)
 
 > Photo by <a href="https://unsplash.com/@kjerdvig?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kevin Erdvig</a> on <a href="https://unsplash.com/photos/camping-under-black-sky-k7fUP9RQj3Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      

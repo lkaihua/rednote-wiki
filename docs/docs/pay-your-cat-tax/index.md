@@ -21,11 +21,17 @@ Before long, the Cat Tax evolved into a widely accepted standard. From goofy cat
 
 While the tradition seems simple, the Cat Tax holds deeper meaning within the rednote community. Here are a few reasons it works so well:  
 
-> **“If you also like cats, then you’re probably not a bad person. We can be friends. ^_^”**  
+> @momo a:
+>
+> **If you also like cats, then you’re probably not a bad person. We can be friends.**  
 
-> **“The real meaning is to show off your happiness. Or, in other words, we wish your happiness.”**  
+> @momo b:
+>
+> **The real meaning is to show off your happiness. Or, in other words, we wish your happiness.**  
 
-> **“It’s really about sharing your daily lives.”**  
+> @momo c:
+>
+> **It’s really about sharing your daily lives.**  
 
 At its heart, the Cat Tax is about human connection. Pets are a part of people’s lives, often representing love, companionship, and humor. By sharing these moments, members open up a little piece of their world, making it easier to forge genuine connections.  
 

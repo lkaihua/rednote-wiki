@@ -60,4 +60,4 @@ rednote only supports Simplied Chinese, Traditional Chinese and English for the 
 
 ## And... 
 
-That's it! Enjoy your Rednote journey!
+That's it! Enjoy your rednote journey!
