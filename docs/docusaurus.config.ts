@@ -42,21 +42,7 @@ const config: Config = {
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -81,9 +67,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Articles',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        // { to: '/blog', label: 'Blog', position: 'left' },
         // {
         //   href: 'https://github.com/lkaihua/rednote-wiki',
         //   label: 'GitHub',
@@ -94,15 +80,15 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'docs',
+        //       to: '/docs/intro',
+        //     },
+        //   ],
+        // },
         {
           title: 'Links',
           items: [
@@ -132,19 +118,19 @@ const config: Config = {
             // },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            // {
-            //   label: 'GitHub',
-            //   href: 'https://github.com/facebook/docusaurus',
-            // },
-          ],
-        },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     // {
+        //     //   label: 'Blog',
+        //     //   to: '/blog',
+        //     // },
+        //     // {
+        //     //   label: 'GitHub',
+        //     //   href: 'https://github.com/facebook/docusaurus',
+        //     // },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} rednotewiki.org . Built with ❤️.`,
     },

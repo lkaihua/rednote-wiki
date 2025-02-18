@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Use Keywords to Customize Feed For Traditional Chinese Culture
 ---
 
-# Use Keywords to Customize Feed For Traditional Chinese Culture
+# Use Keywords to Customize rednote Feed For Traditional Chinese Culture
 
 You can customize your feed by using keywords. The rednote algorithm will recommend content that matches your interests. 
 
